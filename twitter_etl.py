@@ -56,7 +56,7 @@ run_twitter_etl()
 
 from azure.storage.blob import BlobServiceClient
 
-#Go and check details on Access Key section of storage account under Security+networking
+#Go and Check details on Access Key section of storage account under Security+networking
 
 storage_account_key = ""
 storage_account_name = ""
